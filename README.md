@@ -1,10 +1,31 @@
-# prompt-crafting-mayar
+# 🤖 Mayar's Prompt Crafting with GPT 🧠
 
-# Weather Assistant 🌤️
+Welcome to my notebook on prompt crafting using OpenAI GPT models.  
+This project demonstrates hands-on function calling and weather assistant logic.
 
-This is a weather assistant app using Python and OpenWeatherMap API.
+---
 
-## 🚀 How to Run
+## 🚀 Open in Colab
 
-```python
-mayar-gpt-project.ipynb
+Click the badge below to run the notebook interactively in Google Colab:
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/myarnwas/prompt-crafting-mayar/blob/main/mayar-gpt-project.ipynb)
+
+---
+
+## 📘 Notebook Preview
+
+The notebook content is displayed below directly in GitHub 👇  
+You can scroll to view the code and outputs without leaving the page.
+
+---
+
+## 📂 Files
+
+- [`mayar-gpt-project.ipynb`](mayar-gpt-project.ipynb): Main notebook
+
+---
+
+## 📜 License
+
+MIT License
