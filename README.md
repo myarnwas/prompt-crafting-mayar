@@ -22,10 +22,5 @@ You can scroll to view the code and outputs without leaving the page.
 
 ## 📂 Files
 
-- [`mayar-gpt-project.ipynb`](mayar-gpt-project.ipynb): Main notebook
+- [`mayar-gpt-project.ipynb`](https://github.com/myarnwas/prompt-crafting-mayar/blob/main/mayar_gpt_project.ipynb): Main notebook
 
----
-
-## 📜 License
-
-MIT License
